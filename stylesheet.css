@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'sap-iconsregular';
-    src: url('sap-icons-webfont.woff2') format('woff2'),
-         url('sap-icons-webfont.woff') format('woff');
+    src: url('https://github.com/fraemos/sap-icons-webfont/raw/master/sap-icons-webfont.woff2') format('woff2'),
+         url('https://github.com/fraemos/sap-icons-webfont/raw/master/sap-icons-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
